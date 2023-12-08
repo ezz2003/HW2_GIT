@@ -7,4 +7,9 @@ public class Cat {
         this.weight = weight;
     }
 
+    public Cat() {
+
+    }
+
+
 }
