@@ -11,10 +11,5 @@ public class Cat {
 
     }
 
-    @Override
-    public String toString() {
-        return String.format("%s %d %d ", this.nameCat, this.yearOfBirth, this.weight);
-    }
-
 
 }
